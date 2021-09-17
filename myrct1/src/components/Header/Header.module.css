@@ -6,3 +6,12 @@
   width: 100px;
   background-color: green;
 }
+
+.loginBlock {
+    float: right;
+    padding-right: 50px;
+}
+
+.loginBlock a {
+  color: white;
+}
